@@ -1,0 +1,2 @@
+# VostrokError
+Vostrok Error library
